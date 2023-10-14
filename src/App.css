@@ -1,0 +1,31 @@
+.Sidebar ul{
+  list-style : none;
+  margin:0;
+  padding:0;
+  font-size:15px;
+}
+.logodiv{
+  margin-bottom:40px;
+  margin-top:20px;
+  font-size:20px;
+}
+body{
+  background-color:black !important;
+  color:white !important;
+}
+.fliprowt
+{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 10px;
+  text-align: center;
+
+}
+
+.Search2
+{
+  margin-top:250px;
+  padding-top:250px;
+}
